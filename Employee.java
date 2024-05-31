@@ -22,11 +22,6 @@ public class Employee {
 		return this.salary;
 	}
 	
-/*
-	public void toStdOut(){
-		System.out.println();
-	}
-*/	
 	public Employee(){
 	}
 	public Employee(int id, String name, double salary){
